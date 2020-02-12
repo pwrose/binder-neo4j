@@ -1,6 +1,6 @@
 jupyter-server-proxy
 
-neo4j
+#neo4j
 py2neo
 
 #jupytext
