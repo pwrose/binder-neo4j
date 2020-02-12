@@ -3,8 +3,8 @@ jupyter-server-proxy
 neo4j
 py2neo
 
-jupytext
+#jupytext
 
 pandas
 
-git+https://github.com/innovationOUtside/cypher_magic.git
+#git+https://github.com/innovationOUtside/cypher_magic.git
