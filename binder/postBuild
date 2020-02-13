@@ -20,9 +20,9 @@ ${CONDA_DIR}/neo4j-community-3.5.8/bin/neo4j-admin set-initial-password neo4jbin
 
 
 #cypher kernel
-#wget https://github.com/HelgeCPH/cypher_kernel/archive/master.zip
-#unzip master.zip
+wget https://github.com/HelgeCPH/cypher_kernel/archive/master.zip
+unzip master.zip
 pip install cypher_kernel-master/
 python -m cypher_kernel.install
-#rm -r cypher_kernel-master
-#rm master.zip
+rm -r cypher_kernel-master
+rm master.zip
