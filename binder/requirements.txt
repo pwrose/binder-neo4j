@@ -1,4 +1,5 @@
 #jupyter-server-proxy
 
 py2neo
+cypher_kernel
 pandas
