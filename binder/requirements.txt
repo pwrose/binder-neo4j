@@ -1,6 +1,6 @@
 #jupyter-server-proxy
 
 py2neo
+pyYaml
 cypher_kernel
-yaml
 pandas
